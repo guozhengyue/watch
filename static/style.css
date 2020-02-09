@@ -35,3 +35,15 @@ footer	{
 				}
 /*	龙猫图片	*/ 
 
+.float-right{
+	float: right;
+}
+.imdb{
+	font-size: 12px;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+	background: #f5c518;
+	border-radius: 5px;
+	padding: 3px 5px;
+}
